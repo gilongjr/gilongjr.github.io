@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+<meta name="google-site-verification" content="98-RcNWqptOFsLguxaVAt1tZc4CLNKY0SoeVU5BBvLo" />
 ## Header 2
 ### Header 3
 
